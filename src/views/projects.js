@@ -1,0 +1,128 @@
+export const projects = [
+         {
+           name: "Acacia Health Insurance",
+           sub: "React Native | Vue.js",
+           img: "/img/acacia.jpg",
+           description: "Acacia Health Insurance (Acacia) is a Private Commercial Health Insurance Company registered under the laws of Ghana which operates for the benefit of its members.",
+           info: [
+            {
+              name: "Acacia Mobile",
+              about: "The Acacia 2021 mobile application is a cross platform app built using react native. Clients are able to view regular healh tips, get water intake reminders, monitor medications directly from the hospital, log complains in a chat forum or chat directly with Dr. Cacia.",
+              img: "/img/acacia/1.webp",
+              type: 3,
+              imgs: ["/img/acacia/1.webp","/img/acacia/2.webp","/img/acacia/3.webp",],
+              link_tag: "Download Android Version",
+              link: "https://play.google.com/store/apps/details?id=com.acacia.acaciahealthinsurance"
+            },
+            {
+               name: "Development & Deployment",
+               about: "This application was deployed succesfully on google play store and iOS app store",
+               img: "/img/acacia/main.jpeg",
+               type: 1,
+               link_tag: "Download iOS Version",
+                link: "https://apps.apple.com/gh/app/acacia-health-insurance/id1535233495"
+             },
+          ],
+         },
+         {
+           name: "Aljani",
+           sub: "Vue.js | Laravel",
+           img: "/img/aljani.jpg",
+           description: "ALJANI is an online platform that sells quality Made-In-Ghana products. We are motivated by our core purpose to create the biggest rise in the consumption of African manufactured products.",
+           info: [
+             {
+               name: "Aljani Website",
+               about: "The aljani website currently houses the coming soon of the android and ios aljani ecommerce app",
+               img: "/img/aljani/home.png",
+               type: 0,
+               link_tag: "Visit Aljani - Website",
+               link: "https://aljani.com"
+             },
+             {
+                name: "Supplier's Portal",
+                about: "This portal was built for the suppliers of aljani. With this, suppliers are able to manage inventory, track their orders, view analytics on their income from aljani and generate monthly reports of their activities. Built aljani supplier's portal using html, css, javascript and vue.js",
+                img: "/img/aljani/suppliers.png",
+                type: 1,
+                link: ""
+              },
+           ],
+         },
+         {
+           name: "Red River Secure Website",
+           sub: "Laravel",
+           img: "/img/redriver.jpg",
+           description: "Rev Charles DK Asare, founder of ARC Int. & Red River Group is storming the Media & Entertainment World with a real-life story in his upcoming book: “Call Me Nigger” ",
+           info: [
+                {
+                name: "Book Launch",
+                about: "The red river secure is a book launch website",
+                img: "/img/redriver.jpg",
+                type: 0,
+                link_tag: "Visit Redriversecure - Website",
+                link: "https://redriversecure.com"
+                },
+            ]
+        },
+         {
+           name: "Pappermap",
+           sub: "Vue.js | Laravel",
+           img: "/img/pappermap.jpg",
+           description: "Pappermap is an e-learning application with user-friendly features for both teachers and students. We are here to enhance your educational experience through digitization.",
+           info: [
+             {
+               name: "Pappermap Website",
+               about: "Pappermap provides a simplified approach to elearning enhancing student and teacher productivity online.",
+               img: "/img/pappermap/1.png",
+               type: 0,
+               link_tag: "Visit Pappermap",
+               link: "https://pappermap.com"
+             },
+             {
+                name: "Student's Portal",
+                about: "Students are able to register for courses, watch uploaded course videos, download course materials, ask questions online. Learn at your own convinence",
+                img: "/img/pappermap/2.png",
+                type: 1,
+                link_tag: "Visit Student's Portal",
+                link: "https://st.pappermap.com"
+              },
+              {
+                name: "Teacher's Portal",
+                about: "With the integration of [vimeo], teachers are able to create courses and upload videos, track student visits on courses. Give assignments and mark assignments as well",
+                img: "/img/pappermap/3.png",
+                type: 0,
+                link_tag: "Visit Teacher's Portal",
+                link: "https://lc.pappermap.com"
+              },
+           ],
+         },
+         {
+           name: "Pipescore",
+           sub: "Django | Vue.js ",
+           description: "Pipescore-api, takes a keyword and searches through, facebook, google news and instagram for posts, news and groups and performs a sentimental analysis on the post (text) using textBlob to give the sentiment(polarity, subjectivity) thus to show how positive or negative the post is",
+           img: "/img/pipescore.jpg",
+           info: [
+                {
+                    name: "Pipescore-api",
+                    about: "Built using the django framework (python) and mysql. ",
+                    img: "/img/pipescore/1.png",
+                    type: 0,
+                    link_tag: "Open Source on Github",
+                    link: "https://github.com/Leleking/pipescore-django_api"
+                },
+                {
+                    name: "Pipescore App",
+                    about: "Pipescore vue frontend to a sentimental analysis api",
+                    img: "/img/pipescore/1.png",
+                    type: 2,
+                    link_tag: "Open Source on Github",
+                    link: "https://github.com/Leleking/pipescore-frontend"
+                },
+            ]
+         },
+         {
+           name: "Symliq",
+           sub: "Laravel",
+           description: "A software developing company with a diverse team of developers and designers that provides a range of services including mobile app development, enterprise application development and graphic design with our large arsenal of programming languages supported by creative UI & UX skills.",
+           img: "/img/symliq.jpg",
+         },
+       ];
