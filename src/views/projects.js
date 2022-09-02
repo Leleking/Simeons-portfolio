@@ -63,7 +63,7 @@ export const projects = [
         img: "/img/firedns/2.png",
         type: 1,
         link_tag: "Visit FireDNS Finance - Website",
-        link: "https://regulus.finance",
+        link: "https://dashboard.firedns.io/signup",
       },
     ],
   },
