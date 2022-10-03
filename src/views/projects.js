@@ -88,7 +88,8 @@ export const projects = [
   {
     name: "Zivot Consult",
     sub: "Laravel",
-    description: "An excellent immigration firm",
+    description:
+      "A consultancy firm dedicated to assisting individuals with career development, study abroad and migration needs",
     img: "/img/zivotconsult/home.gif",
     info: [
       {
