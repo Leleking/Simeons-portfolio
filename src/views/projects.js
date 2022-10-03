@@ -68,6 +68,24 @@ export const projects = [
     ],
   },
   {
+    name: "Symliq",
+    sub: "Laravel",
+    description:
+      "A software developing company with a diverse team of developers and designers that provides a range of services including mobile app development, enterprise application development and graphic design with our large arsenal of programming languages supported by creative UI & UX skills.",
+    img: "/img/symliq.png",
+    info: [
+      {
+        name: "Symliq Website",
+        about:
+          "Check out the symliq website I created and deployed with Laravel",
+        img: "/img/symliq.png",
+        type: 0,
+        link_tag: "Visit Symliq - Website",
+        link: "https://symliq.com",
+      },
+    ],
+  },
+  {
     name: "Aljani",
     sub: "Vue.js | Laravel",
     img: "/img/aljani.jpg",
@@ -170,12 +188,5 @@ export const projects = [
         link: "https://github.com/Leleking/pipescore-frontend",
       },
     ],
-  },
-  {
-    name: "Symliq",
-    sub: "Laravel",
-    description:
-      "A software developing company with a diverse team of developers and designers that provides a range of services including mobile app development, enterprise application development and graphic design with our large arsenal of programming languages supported by creative UI & UX skills.",
-    img: "/img/symliq.jpg",
   },
 ];
