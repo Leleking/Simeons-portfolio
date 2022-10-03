@@ -86,6 +86,58 @@ export const projects = [
     ],
   },
   {
+    name: "Zivot Consult",
+    sub: "Laravel",
+    description: "An excellent immigration firm",
+    img: "/img/zivotconsult/home.gif",
+    info: [
+      {
+        name: "Zivotconsult Website",
+        about:
+          "This website was developed with html,css, js, tailwind and Laravel",
+        img: "/img/zivotconsult/home.gif",
+        type: 1,
+        link_tag: "Visit Zivot - Website",
+        link: "https://zivotconsult.com",
+      },
+      {
+        name: "Zivotconsult Website",
+        about:
+          "Check out the zivotconsult website, created and deployed on Digital Ocean",
+        img: "/img/zivotconsult/services.png",
+        type: 0,
+        link_tag: "Visit Zivot - Website",
+        link: "https://zivotconsult.com",
+      },
+    ],
+  },
+  /*   {
+           name: "Open Source",
+           sub: "Laravel",
+           description: "An excellent immigration firm",
+           img: "/img/zivotconsult/home.gif",
+           info: [
+             {
+               name: "Zivotconsult Website",
+               about:
+                 "This website was developed with html,css, js, tailwind and Laravel",
+               img: "/img/zivotconsult/home.gif",
+               type: 1,
+               link_tag: "Visit Zivot - Website",
+               link: "https://zivotconsult.com",
+             },
+             {
+               name: "Zivotconsult Website",
+               about:
+                 "Check out the zivotconsult website, created and deployed on Digital Ocean",
+               img: "/img/zivotconsult/services.png",
+               type: 0,
+               link_tag: "Visit Zivot - Website",
+               link: "https://zivotconsult.com",
+             },
+           ],
+         }, */
+  {
     name: "Aljani",
     sub: "Vue.js | Laravel",
     img: "/img/aljani.jpg",
