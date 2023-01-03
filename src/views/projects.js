@@ -34,6 +34,32 @@ export const projects = [
     ],
   },
   {
+    name: "Duotone Maker",
+    sub: "Vuejs - Nuxtjs",
+    img: "/img/duotone/1.png",
+    description:
+      "Duotone is a free online tool used to duotone images with two colors",
+    info: [
+      {
+        name: "Homepage",
+        about:
+          "Users can access images directly from unsplash and pexels and duotone the images and download them. They can also upload their own images and apply the duotone effect on them",
+        img: "/img/duotone/1.png",
+        type: 0,
+        link_tag: "Visit Duotonemaker - Website",
+        link: "https://duotonemaker.netlify.app",
+      },
+      {
+        name: "Mobile View",
+        about: "Duotone can seamlessly be used on mobile devices as well",
+        img: "/img/duotone/2.png",
+        type: 1,
+        link_tag: "Visit Duotonemaker - Website",
+        link: "https://duotonemaker.netlify.app",
+      },
+    ],
+  },
+  {
     name: "Regulus Finance",
     sub: "Larvel| Vue.js",
     img: "/img/regulus/1.png",
@@ -164,23 +190,7 @@ export const projects = [
       },
     ],
   },
-  {
-    name: "Red River Secure Website",
-    sub: "Laravel",
-    img: "/img/redriver.jpg",
-    description:
-      "Rev Charles DK Asare, founder of ARC Int. & Red River Group is storming the Media & Entertainment World with a real-life story in his upcoming book: “Call Me Nigger” ",
-    info: [
-      {
-        name: "Book Launch",
-        about: "The red river secure is a book launch website",
-        img: "/img/redriver.jpg",
-        type: 0,
-        link_tag: "Visit Redriversecure - Website",
-        link: "https://redriversecure.com",
-      },
-    ],
-  },
+
   {
     name: "Pappermap",
     sub: "Vue.js | Laravel",
