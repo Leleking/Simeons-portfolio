@@ -125,7 +125,7 @@ export const projects = [
         img: "/img/zivotconsult/home.gif",
         type: 1,
         link_tag: "Visit Zivot - Website",
-        link: "https://zivotconsult.com",
+        link: "https://zivotconsult.org",
       },
       {
         name: "Zivotconsult Website",
@@ -134,7 +134,7 @@ export const projects = [
         img: "/img/zivotconsult/services.png",
         type: 0,
         link_tag: "Visit Zivot - Website",
-        link: "https://zivotconsult.com",
+        link: "https://zivotconsult.org",
       },
     ],
   },
