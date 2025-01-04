@@ -60,6 +60,53 @@ export const projects = [
     ],
   },
   {
+    name: "Pappermap",
+    sub: "Nextjs | FastAPI",
+    description:
+      "Transform your analytics to everyday conversations. With prompt engineering integrated into our analytics capability, you can connect to any database to boost your business intelligence and operations.",
+    img: "/img/pappermap/1.png",
+    info: [
+      {
+        name: "Pappermap",
+        about:
+          "Compare current product performance with past performance, allowing users to identify shifts over time.",
+        img: "/img/pappermap/1.png",
+        type: 0,
+        link_tag: "Visit Pappermap - Website",
+        link: "https://www.pappermap.com/",
+      },
+      {
+        name: "Pappermap Website",
+        about:
+          "Support integration with other software for data import/export, such as POS systems or ERPs.",
+        img: "/img/pappermap/2.png",
+        type: 1,
+        link_tag: "Visit Pappermap - Website",
+        link: "https://www.pappermap.com/",
+      },
+      {
+        name: "Pappermap Charts",
+        about: "Custom Graphs and Charts Request specific visualization to analyze data, trends, or performances.",
+
+        type: 0,
+        img: "/img/pappermap/4.png",
+
+        link_tag: "Visit Pappermap - Website",
+        link: "https://www.pappermap.com/",
+      },
+      {
+        name: "Pappermap Dashboard",
+        about: "Customizable Data Tables Request tables with specific columns or data points filtered by various criteria.",
+
+        type: 1,
+        img: "/img/pappermap/6.png",
+
+        link_tag: "Visit Pappermap - Website",
+        link: "https://www.pappermap.com/",
+      },
+    ],
+  },
+  {
     name: "Regulus Finance",
     sub: "Larvel| Vue.js",
     img: "/img/regulus/1.png",
@@ -138,6 +185,7 @@ export const projects = [
       },
     ],
   },
+
   /*   {
            name: "Open Source",
            sub: "Laravel",
@@ -191,42 +239,6 @@ export const projects = [
     ],
   },
 
-  {
-    name: "Pappermap",
-    sub: "Vue.js | Laravel",
-    img: "/img/pappermap.jpg",
-    description:
-      "Pappermap is an e-learning application with user-friendly features for both teachers and students. We are here to enhance your educational experience through digitization.",
-    info: [
-      {
-        name: "Pappermap Website",
-        about:
-          "Pappermap provides a simplified approach to elearning enhancing student and teacher productivity online.",
-        img: "/img/pappermap/1.png",
-        type: 0,
-        link_tag: "Visit Pappermap",
-        link: "https://pappermap.com",
-      },
-      {
-        name: "Student's Portal",
-        about:
-          "Students are able to register for courses, watch uploaded course videos, download course materials, ask questions online. Learn at your own convinence",
-        img: "/img/pappermap/2.png",
-        type: 1,
-        link_tag: "Visit Student's Portal",
-        link: "https://st.pappermap.com",
-      },
-      {
-        name: "Teacher's Portal",
-        about:
-          "With the integration of [vimeo], teachers are able to create courses and upload videos, track student visits on courses. Give assignments and mark assignments as well",
-        img: "/img/pappermap/3.png",
-        type: 0,
-        link_tag: "Visit Teacher's Portal",
-        link: "https://lc.pappermap.com",
-      },
-    ],
-  },
   {
     name: "Pipescore",
     sub: "Django | Vue.js ",
